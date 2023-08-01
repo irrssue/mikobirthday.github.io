@@ -305,5 +305,15 @@ body {
     width: 50% !important;
   }
 
+  .text-box{
+    width: 300px !important;
+  }
+
+  .idea-1, .three, .idea-2, .idea-3, .wishText, .nine p {
+    font-size: 70% m !important;
+  }
+
+
+
 
 }
