@@ -237,8 +237,8 @@ body {
 }
 
 /* Media Queries */
-
-@media screen and (max-width: 1000px) {
+/* This CSS rule will apply to laptops with a screen width between 1024px and 1366px */
+@media screen and (min-width: 900px) and (max-width: 1366px) {
   .six .hat {
     left: 40%;
   }
@@ -247,6 +247,7 @@ body {
     width: 50% !important;
   }
 }
+
 
 @media screen and (max-width: 800px) {
   .six .hat {
