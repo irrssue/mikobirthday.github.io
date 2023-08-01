@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 35%;
+  max-width: 50%;
   height: auto;
 }
 
@@ -300,4 +300,10 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+
+  .last-smile img {
+    width: 50% !important;
+  }
+
+
 }
